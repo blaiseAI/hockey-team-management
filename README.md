@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### Cloning project
+`git clone https://github.com/blaiseAI/hockey-team-management.git`
+
+### Setup locally
+
+### `npm install`
+
+
 In the project directory, you can run:
 
 ### `npm start`

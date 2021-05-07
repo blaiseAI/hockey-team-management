@@ -41,13 +41,6 @@ function Players() {
               //set the players
               setPlayers(allPlayers);
   }
-
-// Edit
-  const editPlayer = async(id, data) => {
-    console.log(id);
-        await db.items.update(id, data)
-}
-
   //submit 
   const getPlayerInfo = (e) => {
     e.preventDefault();
